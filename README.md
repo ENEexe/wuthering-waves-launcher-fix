@@ -19,6 +19,8 @@
    ```
 6. Launch the game. The script creates a `.bak` backup next to the DLL.
 
+![Wuthering Waves launcher visible with Steam compatibility settings](assets/wuthering-waves-launcher-fixed.webp)
+
 If it says the marker is missing, stop and check that you selected the current version folder. Repeat the steps if a launcher update replaces the DLL.
 
 ## Undo
