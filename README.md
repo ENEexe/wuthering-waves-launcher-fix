@@ -1,5 +1,14 @@
 # Blank Wuthering Waves launcher fix (Linux/Proton)
 
+## Requirements
+
+- Linux with Python 3 installed (`python3 --version` to check).
+- Steam version of Wuthering Waves and its `launcher_main.dll`.
+- Close the game/launcher before running the script.
+- No third-party Python packages, root access, or elevated permissions required; you need write access to the game’s version folder.
+
+## Apply the fix
+
 1. Exit Wuthering Waves in Steam.
 2. Right-click the game in your Steam library → **Manage → Browse local files**.
 3. Open the current numbered version folder containing `launcher_main.dll` (beside `launcher_main.exe`).
